@@ -58,6 +58,4 @@ while True:
         else:
             resultado = 'Empate'
 
-    janela ['-OUTPUT-'].update(f'Voce jogou {eventos}.\nComputador jogou {jogada_maquina}.\nLogo o resultado é {resultado}')
-
-
+    janela ['-OUTPUT-'].update(f'Voce jogou {eventos}.\nComputador jogou {jogada_maquina}.\nLogo o resultado é {resultado}')
